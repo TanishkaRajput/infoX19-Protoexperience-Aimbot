@@ -1,0 +1,20 @@
+body{margin:0px;padding: 0px;}
+
+.header{background:#e9f5ec;height:60px;width: 100%}
+.nav{height:60px;width: 100%;font-family:Verdana;color:white}
+.nav_left{height:60px;width: 35%;float: left;background: #b2c2f7;}
+.nav_left>ul>li{display: block;margin-left: 90px;float: left;padding: 10px 15px;margin-left: -5px;}
+.nav_left>ul>li:hover{color:blue}
+.nav_right{height:60px;width: 65%;background:#5d7ff0;float: right;}
+.nav_right>ul>li{display: block;margin-left: 45px;float: left;padding: 10px 15px;}
+.nav_right>ul>li:hover{color:blue}
+.nav_right>ul>li:last-child{padding:13px 20px;margin-top:-10px;}
+.nav_right ul li input{background:#fff;border:none;padding:5px;border-radius:10px;}
+.nav_right ul li img{position:absolute;margin-left:-28px;}
+
+.mido{height: 30px;width: 100%;background:#edf5ef;}
+.midoo{height: 30px;width: 100%;background:#edf5ef;}
+.cont{height: 300px;width: auto;background: #5663f0;padding: 10px 10px;}
+.contain{height: 280px;width:25%;margin-left: 80px;background:#b8b9de ;float: left;margin-top: 18px;border-radius: 20px;}
+.midooo{height: 30px;width:auto%;background:#edf5ef;margin-left: 900px;}
+.footer{padding-top:20px;
